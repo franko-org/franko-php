@@ -1,7 +1,7 @@
-bitcoin-php
+franko-php
 ===========
 
-A [Bitcoin][Bitcoin] library for [PHP](http://www.php.net/).
+A [Franko][Franko] library for [PHP](http://www.php.net/).
 
 Documentation
 -------------
@@ -14,12 +14,12 @@ Requirements
 ### PHP requirements:
 * PHP5
 * cURL support  
-* SSL support (if you're using HTTPS to talk to bitcoind)
+* SSL support (if you're using HTTPS to talk to frankod)
 
 Donate
 ------
 
-* Bitcoin payments: 1E3d6EWLgwisXY2CWXDcdQQP2ivRN7e9r9
+* Franko payments: F5sKDVu7c8ndjy7NGPr9PsQ3tHtQhNtVvt
 * Gifts via other methods: <http://www.nostate.com/support-nostatecom/>
 
 Authors
@@ -27,20 +27,22 @@ Authors
 
 * [Mike Gogulski](http://github.com/mikegogulski) -
   <http://www.nostate.com/> <http://www.gogulski.com/>
+* [Franko Collective](http://github.com/franko-org) -
+   <http://www.frankos.org/>
 
 Credits
 -------
 
-bitcoin-php incorporates code from:
+franko-php incorporates code from:
 
 * [XML-RPC for PHP][XML-RPC-PHP] by Edd Dumbill (for JSON-RPC support)
 
 License
 -------
 
-bitcoin-php is free and unencumbered public domain software. For more
+franko-php is free and unencumbered public domain software. For more
 information, see <http://unlicense.org/> or the accompanying UNLICENSE file.
 
 
-[Bitcoin]:		http://www.bitcoin.org/
+[Franko]:		http://www.frankos.org/
 [XML-RPC-PHP]:	http://phpxmlrpc.sourceforge.net/
